@@ -7,11 +7,6 @@ Bug reports and pull requests are welcome.
 Press Send logs in 1401 (Windows) or the 1401 Mac app. It gives you a report ID like `NM-ABCD1234`. Open an issue
 with that ID and describe what you see in a few sentences of your own.
 
-## No AI-written contributions
-
-Pull requests, issues and review comments must be written by a person who understands them. AI-written code,
-descriptions and bug reports are closed without review.
-
 ## Pull requests
 
 - One change per pull request, and say what you tested: your PC, the stick, what you ran and what it printed.
